@@ -1,0 +1,2 @@
+# socialize-theme
+The theme
